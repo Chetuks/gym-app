@@ -1,0 +1,14 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": {
+        "waterGoal": 164,
+        "waterConsumed": 118,
+        "stepsGoal": 17400,
+        "stepsDone": 13572,
+        "exercisesCals": 0,
+        "exercisesHours": 0,
+        "sleepGoal": 7,
+        "sleepDone": 6
+    }
+}
